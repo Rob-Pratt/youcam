@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleExecutable</key>
+    <string>YouCam</string>
+    <key>CFBundleIdentifier</key>
+    <string>app.youcam.desktop</string>
+    <key>CFBundleName</key>
+    <string>YouCam</string>
+    <key>CFBundleDisplayName</key>
+    <string>YouCam</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.3</string>
+    <key>CFBundleVersion</key>
+    <string>4</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+    <key>NSCameraUsageDescription</key>
+    <string>YouCam shows your camera in a floating overlay and includes it in screen recordings you start.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>YouCam uses your selected microphone for the live input meter and recordings you save on your Desktop.</string>
+    <key>NSScreenCaptureUsageDescription</key>
+    <string>YouCam records the screen area you choose and saves the movie on your Desktop.</string>
+    <key>NSCameraUseContinuityCameraDeviceType</key>
+    <true/>
+</dict>
+</plist>
